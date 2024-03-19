@@ -1,5 +1,5 @@
 # Hi! We are AbstractionMC
-We make **Minecraft** Content like **Mods**!
+We make **[Minecraft](https://minecraft.net)/[Cosmic Reach](https://finalforeach.itch.io/cosmic-reach)** Content like **Mods**!
 
 ## ⚛️ Projects:
 | Mod         | Description                            | ModLoader |        Links        |

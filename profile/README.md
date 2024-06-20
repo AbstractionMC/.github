@@ -4,6 +4,11 @@ We make **[Minecraft](https://minecraft.net)** Content like **Mods**!
 ## ⚛️ Projects:
 | Mod         | Description                            | ModLoader |        Links        |
 |-------------|----------------------------------------|:---------:|:-------------------:|
+| 🌳Forestal  | A mod improving the Forests of Minecraft |  FabricMC | [🔗GitHub](https://github.com/AbstractionMC/Forestal) /[🔗Modrinth](https://modrinth.com/mod/Forestal) |
+| 🏠SweetOfHomes  | New blocks and decoration for your Minecraft Home |  FabricMC | [🔗GitHub](https://github.com/AbstractionMC/SweetOfHomes) /[🔗Modrinth](https://modrinth.com/mod/SweetOfHomes) |
+
+| **Experimantal/Archived:**  |  |   |  |
+|-------------|----------------------------------------|:---------:|:-------------------:|
 | 🌱landscape  | Utility Mod for creating Adventuremaps |  FabricMC | [🔗GitHub](https://github.com/AbstractionMC/landscape) /[🔗Modrinth](https://modrinth.com/mod/landscape) |
 | 🧭adventures | ...                                    |  FabricMC |                     |
 
